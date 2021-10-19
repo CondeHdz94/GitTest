@@ -23,3 +23,11 @@ ul {
   text-align: left;
   list-style: none;
 }
+
+p {
+  color: bisque;
+}
+
+span {
+  color: lightgray;
+}

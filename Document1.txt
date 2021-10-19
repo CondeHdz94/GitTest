@@ -1,2 +1,4 @@
 Hellow, i'm the Document1
 with CondeHdz
+
+This are a new line in txt
